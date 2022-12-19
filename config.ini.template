@@ -1,0 +1,10 @@
+[rt.ru]
+login = admin
+password = password
+domain = domain
+
+[sql]
+path = ./database.sql
+
+[export]
+pathFileExport = ./Отчет по вызовам в домене.xlsx #Без надобности лучше не трогать
